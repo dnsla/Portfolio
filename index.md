@@ -20,13 +20,7 @@ Welcome to my portfolio — a place to explore my work, skills, and journey in d
 
 ## About Me
 
-I’m a Bachelor of Science student majoring in Data Science (graduating August 2025) with a foundation in industrial systems, IT, and programming. I enjoy using data to solve real-world problems and tell meaningful stories through insights and visualizations.
-
-My toolkit includes:
-- Python & R
-- SQL (PostgreSQL, SQLite)
-- Tableau, Matplotlib
-- pandas, NumPy, scikit-learn, seaborn
+[Learn more about me here.](about.md)
 
 ---
 
@@ -36,12 +30,6 @@ Here’s a snapshot of my projects — full write-ups coming soon:
 - **[Analyzing Climate Trends with NASA Data](projects/nasa-climate.md)**
 - **[Sentiment Analysis on Movie Reviews](projects/movie-sentiment.md)**
 - **[Predicting Patient Readmission Risk](projects/readmission-risk.md)**
-
----
-
-## Website
-
-[Visit my site](https://dnsla.github.io/portfolio)
 
 ---
 
@@ -57,3 +45,4 @@ I’d love to connect!
 <div class="footer">
   <p>This portfolio is always growing — check back for updates and new work!</p>
 </div>
+
