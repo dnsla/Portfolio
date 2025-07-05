@@ -1,34 +1,42 @@
-/* Light pink background, black text */
+/* Set whole page background to white */
 body {
-  background-color: #ffe6f0;  /* soft light pink */
-  color: #000;                /* black text */
+  background-color: #ffffff; /* white */
+  color: #000000; /* black text */
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Make headers and links black for strong contrast */
-h1, h2, h3, h4, h5, h6, a {
-  color: #000;
+/* Make all headings black for contrast */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
 }
 
-/* Customize nav bar background if Cayman uses one */
-header, nav {
-  background-color: #000;     /* black nav bar */
-  color: #ffe6f0;             /* pink text in nav */
-}
-
+/* Links black, hover navy */
 a {
+  color: #000000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #d6336c;             /* darker pink on hover */
+  color: #001f3f; /* dark navy blue on hover */
 }
 
-/* Optional: style images if you add a profile photo */
-img {
-  border-radius: 8px;
-  border: 3px solid #000;
-  max-width: 200px;
-  display: block;
-  margin: 20px auto;
+/* Override Cayman’s header/banner color with navy */
+.page-header {
+  background-color: #001f3f !important; /* navy blue */
+  color: #ffffff !important; /* white text in header */
+}
+
+.project-name, .project-tagline {
+  color: #ffffff !important; /* white text */
+}
+
+.btn {
+  background-color: #ffffff !important; /* white button */
+  color: #001f3f !important; /* navy text */
+  border: 2px solid #001f3f;
+}
+
+.btn:hover {
+  background-color: #001f3f !important; /* navy on hover */
+  color: #ffffff !important; /* white text on hover */
 }
