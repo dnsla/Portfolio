@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Data Science Portfolio
 ---
 
 # Data Science Portfolio
