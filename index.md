@@ -5,7 +5,6 @@ title: Delilah Slabaugh | Data Science Portfolio
 <link rel="stylesheet" href="style.css">
 
 <div class="intro">
-  <img src="profile.jpg" alt="Delilah Slabaugh" class="profile-photo">
   <h1>Delilah Slabaugh</h1>
   <h3>Data Science Student | Problem Solver | Lifelong Learner</h3>
 </div>
