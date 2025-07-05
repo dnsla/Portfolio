@@ -1,3 +1,14 @@
+.page-header {
+  background: #001f3f !important;   /* solid navy blue */
+  background-image: none !important; /* kill gradient */
+  color: #ffffff !important;         /* make header text white */
+}
+
+.project-name,
+.project-tagline {
+  color: #ffffff !important;         /* force white title/subtitle in header */
+}
+
 /* Use Georgia font everywhere */
 body {
   background-color: #ffffff;
