@@ -2,6 +2,7 @@
 layout: default
 title: Data Science Portfolio
 ---
+![My Photo](profile.jpg)
 Welcome to my personal portfolio! This site is designed to showcase my background, skills, and academic projects as a Data Science student.
 
 ## Overview
