@@ -23,9 +23,9 @@ Here are the main tools and technologies I use in my data science work:
 - **Databases & Querying**: SQL (PostgreSQL, SQLite)
 
 ## Projects
-- **Analyzing Climate Trends with NASA Data
-- **Sentiment Analysis on Movie Reviews
-- **Predicting Patient Readmission Risk
+- **Analyzing Climate Trends with NASA Data**
+- **Sentiment Analysis on Movie Reviews**
+- **Predicting Patient Readmission Risk**
 ## Website
 
 [Click here to view my site](https://dnsla.github.io/portfolio)
