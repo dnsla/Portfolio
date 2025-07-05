@@ -1,0 +1,22 @@
+/* Make headers and links pink */
+h1, h2, h3, h4, h5, h6, a {
+  color: #d6336c; /* rose pink */
+}
+
+/* Optional: change body text color if you want it warmer */
+body {
+  color: #333;
+}
+
+/* Add a nice border to images if you have a profile photo */
+img {
+  border-radius: 50%;
+  border: 3px solid #d6336c;
+  max-width: 200px;
+}
+
+/* Center the image */
+img {
+  display: block;
+  margin: 0 auto;
+}
