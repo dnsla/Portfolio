@@ -1,42 +1,94 @@
-/* Set whole page background to white */
+/* Use Georgia font everywhere */
 body {
-  background-color: #ffffff; /* white */
-  color: #000000; /* black text */
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Make all headings black for contrast */
-h1, h2, h3, h4, h5, h6 {
+  background-color: #ffffff;
   color: #000000;
+  font-family: Georgia, serif;
+  line-height: 1.75;
+  font-size: 18px;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
 }
 
-/* Links black, hover navy */
+/* Hero intro section */
+.intro {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 4px solid #001f3f;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+/* Headings */
+h1 {
+  font-family: Georgia, serif;
+  font-size: 2.8em;
+  margin: 10px 0;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 50px;
+  color: #001f3f;
+  border-bottom: 2px solid #001f3f;
+  padding-bottom: 5px;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-top: 30px;
+  color: #001f3f;
+}
+
+h4, h5, h6 {
+  font-family: Georgia, serif;
+  color: #001f3f;
+}
+
+/* Links */
 a {
-  color: #000000;
+  color: #001f3f;
   text-decoration: none;
+  border-bottom: 1px solid #001f3f;
+  transition: all 0.2s ease;
 }
 
 a:hover {
-  color: #001f3f; /* dark navy blue on hover */
+  background-color: #001f3f;
+  color: #ffffff;
+  border-bottom: 1px solid #001f3f;
 }
 
-/* Override Cayman’s header/banner color with navy */
-.page-header {
-  background-color: #001f3f !important; /* navy blue */
-  color: #ffffff !important; /* white text in header */
+/* Lists */
+ul {
+  padding-left: 1.5em;
 }
 
-.project-name, .project-tagline {
-  color: #ffffff !important; /* white text */
+li {
+  margin-bottom: 10px;
 }
 
-.btn {
-  background-color: #ffffff !important; /* white button */
-  color: #001f3f !important; /* navy text */
-  border: 2px solid #001f3f;
+/* Footer styling */
+.footer {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 0.9em;
+  color: #555;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
 }
 
-.btn:hover {
-  background-color: #001f3f !important; /* navy on hover */
-  color: #ffffff !important; /* white text on hover */
+/* Blockquotes if you ever use them */
+blockquote {
+  border-left: 4px solid #001f3f;
+  margin: 20px 0;
+  padding-left: 20px;
+  color: #333;
+  font-style: italic;
 }
