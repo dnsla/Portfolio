@@ -33,9 +33,9 @@ My toolkit includes:
 ## Projects
 
 Here’s a snapshot of my projects — full write-ups coming soon:
-- **[Analyzing Climate Trends with NASA Data](#)** — exploring climate patterns.
-- **[Sentiment Analysis on Movie Reviews](#)** — NLP for text classification.
-- **[Predicting Patient Readmission Risk](#)** — healthcare analytics.
+- **[Analyzing Climate Trends with NASA Data](projects/nasa-climate.md)**
+- **[Sentiment Analysis on Movie Reviews](projects/movie-sentiment.md)**
+- **[Predicting Patient Readmission Risk](projects/readmission-risk.md)**
 
 ---
 
