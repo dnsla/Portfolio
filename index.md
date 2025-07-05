@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Data Science Portfolio
 ---
 Welcome to my personal portfolio! This site is designed to showcase my background, skills, and academic projects as a Data Science student.
