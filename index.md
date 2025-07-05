@@ -3,43 +3,57 @@ layout: default
 title: Delilah Slabaugh | Data Science Portfolio
 ---
 <link rel="stylesheet" href="style.css">
-![My Photo](profile.jpg)
-Welcome to my personal portfolio! This site is designed to showcase my background, skills, and academic projects as a Data Science student.
 
-## Overview
+<div class="intro">
+  <img src="profile.jpg" alt="Delilah Slabaugh" class="profile-photo">
+  <h1>Delilah Slabaugh</h1>
+  <h3>Data Science Student | Problem Solver | Lifelong Learner</h3>
+</div>
 
-This portfolio website was created using GitHub Pages. It includes key information about me, links to my work, and ways to connect. It's a central place to highlight my journey and growth in data science and related fields.
+---
+
+## Welcome
+
+Welcome to my portfolio — a place to explore my work, skills, and journey in data science. This site highlights my projects, technical background, and ways to connect with me.
+
+---
 
 ## About Me
 
-I’m a Bachelor of Science student majoring in Data Science, with an expected completion date of August 2025. My academic background combines data analytics and statistical modeling with hands-on experience in industrial systems, including programmable logic controllers (PLCs). I also have foundational training in IT and industrial technology, giving me a unique blend of analytical and technical skills.  
+I’m a Bachelor of Science student majoring in Data Science (graduating August 2025) with a foundation in industrial systems, IT, and programming. I enjoy using data to solve real-world problems and tell meaningful stories through insights and visualizations.
 
-My current toolkit includes Python, R (via RStudio), SQL, and Tableau, which I use to explore data, build models, and visualize insights. While my project list is still growing, I look forward to showcasing academic and personal work here soon. I also plan to share my resume and downloadable resources as they’re finalized.
+My toolkit includes:
+- Python & R
+- SQL (PostgreSQL, SQLite)
+- Tableau, Matplotlib
+- pandas, NumPy, scikit-learn, seaborn
 
-## Technical Stack
-
-Here are the main tools and technologies I use in my data science work:
-
-- **Programming Languages**: Python, R  
-- **Development Tools**: Jupyter Notebook, RStudio, Google Colab  
-- **Libraries**: pandas, NumPy, scikit-learn, matplotlib, seaborn  
-- **Data Visualization**: Tableau, Matplotlib  
-- **Databases & Querying**: SQL (PostgreSQL, SQLite)
+---
 
 ## Projects
-- **Analyzing Climate Trends with NASA Data**
-- **Sentiment Analysis on Movie Reviews**
-- **Predicting Patient Readmission Risk**
+
+Here’s a snapshot of my projects — full write-ups coming soon:
+- **[Analyzing Climate Trends with NASA Data](#)** — exploring climate patterns.
+- **[Sentiment Analysis on Movie Reviews](#)** — NLP for text classification.
+- **[Predicting Patient Readmission Risk](#)** — healthcare analytics.
+
+---
+
 ## Website
 
-[Click here to view my site](https://dnsla.github.io/portfolio)
+[Visit my site](https://dnsla.github.io/portfolio)
+
+---
 
 ## Contact
 
-Feel free to connect or reach out:
-- Phone: (832)515-8269
-- Email: binkleyd@icloud.com  
-- GitHub: [@dnsla](https://github.com/dnsla)  
+I’d love to connect!
+- 📞 (832) 515-8269
+- 📧 binkleyd@icloud.com
+- 💻 [GitHub @dnsla](https://github.com/dnsla)
+
 ---
 
-This site is a work in progress and will grow as I complete more projects and expand my skills.
+<div class="footer">
+  <p>This portfolio is always growing — check back for updates and new work!</p>
+</div>
