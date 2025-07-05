@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Science Portfolio
+title: Delilah Slabaugh | Data Science Portfolio
 ---
 <link rel="stylesheet" href="style.css">
 ![My Photo](profile.jpg)
