@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me | Delilah Slabaugh
+title: About Me
 ---
 
 <link rel="stylesheet" href="style.css">
@@ -26,5 +26,7 @@ title: About Me | Delilah Slabaugh
     <li>Tableau, Matplotlib</li>
     <li>pandas, NumPy, scikit-learn, seaborn</li>
   </ul>
+
+  <a href="index.md" class="home-button">← Back to Home</a>
 
 </div>
