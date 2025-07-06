@@ -58,24 +58,3 @@ body {
   padding-left: 1.5rem;
   display: inline-block;
 }
-
-/* container for home button outside the card */
-.home-button-container {
-  text-align: center;
-  margin: 3rem auto; /* spacing above and below */
-}
-
-.home-button {
-  display: inline-block;
-  padding: 0.6rem 1.2rem;
-  background-color: #003366; /* deep blue */
-  color: #ffffff;
-  text-decoration: none;
-  border-radius: 5px;
-  font-size: 0.95rem;
-  transition: background 0.3s ease;
-}
-
-.home-button:hover {
-  background-color: #0055a5; /* lighter blue on hover */
-}
