@@ -28,7 +28,3 @@ title: About Me | Delilah Slabaugh
   </ul>
 
 </div>
-
-<div class="home-button-container">
-  <a href="/Portfolio/" class="home-button">← Back to Home</a>
-</div>
