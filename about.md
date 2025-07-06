@@ -7,15 +7,24 @@ title: About Me | Delilah Slabaugh
 <link rel="stylesheet" href="about.css">
 
 <div class="about-container">
+
   <img src="profile.jpg" alt="Delilah Slabaugh" class="profile-photo">
 
-  # About Me
+  <h1>About Me</h1>
 
-  I’m a Bachelor of Science student majoring in Data Science (graduating August 2025) with a foundation in industrial systems, IT, and programming. I enjoy using data to solve real-world problems and tell meaningful stories through insights and visualizations.
+  <h2 class="tagline">Data Science Student | Problem Solver | Lifelong Learner</h2>
 
-  My toolkit includes:
-  - Python & R
-  - SQL (PostgreSQL, SQLite)
-  - Tableau, Matplotlib
-  - pandas, NumPy, scikit-learn, seaborn
+  <p>Hello! I’m Delilah — a Bachelor of Science student majoring in Data Science, graduating August 2025. My background blends industrial systems, IT, and programming.</p>
+
+  <p>I love using data to solve real-world problems, uncover trends, and communicate insights clearly and visually. My goal is to bridge the gap between raw information and meaningful solutions.</p>
+
+  <h3>My Toolkit</h3>
+
+  <ul>
+    <li>Python & R</li>
+    <li>SQL (PostgreSQL, SQLite)</li>
+    <li>Tableau, Matplotlib</li>
+    <li>pandas, NumPy, scikit-learn, seaborn</li>
+  </ul>
+
 </div>
