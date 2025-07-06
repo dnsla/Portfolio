@@ -27,8 +27,8 @@ title: About Me | Delilah Slabaugh
     <li>pandas, NumPy, scikit-learn, seaborn</li>
   </ul>
 
-  <div class="home-button-container">
-    <a href="/" class="home-button">← Back to Home</a>
-  </div>
+</div>
 
+<div class="home-button-container">
+  <a href="/Portfolio/" class="home-button">← Back to Home</a>
 </div>
