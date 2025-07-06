@@ -1,33 +1,58 @@
 /* about.css */
 
-/* base page style */
 body {
   font-family: Georgia, serif;
+  background-color: #f0f4f8;
+  color: #333;
   line-height: 1.7;
-  background-color: #f0f4f8; /* light gray-blue background */
-  color: #333; /* dark gray text for contrast */
 }
 
-/* content container style */
 .about-container {
   max-width: 800px;
-  margin: 2rem auto;
-  padding: 2rem 3rem;
-  background: #ffffff; /* white content card */
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 3rem auto;
+  padding: 3rem;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
 
-/* heading style */
-.about-container h1 {
-  color: #003366; /* deep blue heading */
-}
-
-/* profile photo style */
 .profile-photo {
   display: block;
-  max-width: 200px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
   border-radius: 50%;
-  margin: 0 auto 2rem auto;
-  border: 4px solid #003366; /* deep blue border */
+  border: 4px solid #003366;
+  margin: 0 auto 1.5rem auto;
+}
+
+.about-container h1 {
+  color: #003366;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.about-container .tagline {
+  font-size: 1.2rem;
+  font-weight: normal;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.about-container p {
+  margin-bottom: 1rem;
+}
+
+.about-container h3 {
+  margin-top: 2rem;
+  color: #003366;
+}
+
+.about-container ul {
+  list-style: disc;
+  text-align: left;
+  margin: 1rem auto;
+  padding-left: 1.5rem;
+  display: inline-block;
 }
