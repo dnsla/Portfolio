@@ -59,13 +59,12 @@ body {
   display: inline-block;
 }
 
-/* container for home button */
+/* container for home button outside the card */
 .home-button-container {
-  margin-top: 3rem; /* push button down */
   text-align: center;
+  margin: 3rem auto; /* spacing above and below */
 }
 
-/* style for home button */
 .home-button {
   display: inline-block;
   padding: 0.6rem 1.2rem;
