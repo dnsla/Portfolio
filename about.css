@@ -59,10 +59,15 @@ body {
   display: inline-block;
 }
 
-/* home button style */
+/* container for home button */
+.home-button-container {
+  margin-top: 3rem; /* push button down */
+  text-align: center;
+}
+
+/* style for home button */
 .home-button {
   display: inline-block;
-  margin-top: 2rem;
   padding: 0.6rem 1.2rem;
   background-color: #003366; /* deep blue */
   color: #ffffff;
