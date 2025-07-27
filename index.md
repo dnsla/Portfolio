@@ -32,6 +32,11 @@ Here’s a snapshot of my projects — full write-ups coming soon:
 
 ---
 
+## Skills
+
+[View my technical skills and tools.](skills.md)
+
+
 ## Contact
 
 I’d love to connect!
