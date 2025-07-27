@@ -11,5 +11,7 @@ This project explores long-term climate trends using publicly available datasets
 
 ## Presentation
 
-[Download the PowerPoint presentation](nasa-climate-trends-presentation.pptx)
+<iframe src="nasa-climate-trends.pdf" width="100%" height="600px">
+</iframe>
+
 
