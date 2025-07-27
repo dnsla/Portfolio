@@ -14,4 +14,10 @@ This project explores long-term climate trends using publicly available datasets
 <iframe src="nasa-climate-trends.pdf" width="100%" height="600px">
 </iframe>
 
+## Project Documents
+
+- [Climate Report](climate_report_final.docx)
+- [Stakeholder Q&A](stakeholder_q_and_a.docx)
+- [Project Code](milestone2_week3.pdf)
+
 
