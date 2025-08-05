@@ -12,7 +12,7 @@ This project applies natural language processing to determine the sentiment (pos
 
 ## Presentation
 
-<iframe src="IMDB_Sentiment_Presentation.pdf" width="100%" height="600px">
+<iframe src="IMDB_Sentiment_Presentation 1.pdf" width="100%" height="600px">
 </iframe>
 
 ## Project Documents
