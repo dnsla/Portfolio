@@ -13,7 +13,7 @@ title: Delilah Slabaugh | Data Science Portfolio
 
 ## Welcome
 
-Welcome to my portfolio — a place to explore my work, skills, and journey in data science. This site highlights my projects, technical background, and ways to connect with me.
+Welcome to my portfolio! This is a space to explore my work, skills, and journey in data science. This site highlights my projects, technical background, and ways to connect with me.
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my portfolio — a place to explore my work, skills, and journey in d
 
 ## Projects
 
-Here’s a snapshot of my projects — full write-ups coming soon:
+Here’s a snapshot of my projects!
 - **[Analyzing Climate Trends with NASA Data](projects/nasa-climate.md)**
 - **[Sentiment Analysis on Movie Reviews](projects/movie-sentiment.md)**
 - **[Predicting Patient Readmission Risk](projects/readmission-risk.md)**
