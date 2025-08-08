@@ -6,7 +6,7 @@ title: Delilah Slabaugh | Data Science Portfolio
 
 <div class="intro">
   <h1>Delilah Slabaugh</h1>
-  <h3>Data Science Student | Problem Solver | Lifelong Learner</h3>
+  <h3> B.S Data Science Graduate | Problem Solver | Lifelong Learner</h3>
 </div>
 
 ---
