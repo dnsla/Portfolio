@@ -14,9 +14,9 @@ From systems and engineering foundations to advanced data science, my academic b
 
 ---
 
-## Associate of Applied Science in Industrial Systems  
-**[Augusta Technical College]** – [Augusta, GA]  
-*Graduated with Honors: [August 2022]*  
+## Associate of Applied Science in Industrial Systems Technology
+**Augusta Technical College** – Augusta, GA  
+*Graduated with Honors: August 2022*  
 - Focus: Automation, Electrical Systems, Safety Standards, Programmable Logic Controllers (PLC) 
 - Fiber Optic Maintenance Certified
 - OSHA 10 Certified
@@ -25,8 +25,8 @@ From systems and engineering foundations to advanced data science, my academic b
 ---
 
 ## Welding and Joining Technology Diploma  
-**[Augusta Technical College]** – [Augusta, GA]  
-*Graduated with Honors: [August 2021]*  
+**Augusta Technical College** – Augusta, GA  
+*Graduated with Honors: August 2021*  
 - Focus: MIG, TIG, Stick, and Flux Core Welding
 
 ---
