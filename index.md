@@ -21,7 +21,7 @@ Welcome to my portfolio! This is a space to explore my work, skills, and journey
 
 [Learn more about me here.](about.md)
 
-[Education](education.md): Explore my academic background!
+[Explore my academic background here!](education.md)
 
 ---
 
